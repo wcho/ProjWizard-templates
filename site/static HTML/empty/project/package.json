@@ -1,0 +1,9 @@
+{
+    "appid": "[required] your app id",
+    "apptype": "[need] html",
+    "name": "empty html app template",
+    "description": "[opt] empty",
+    "repository": "[opt] your repository",
+    "author": "[opt] you",
+    "license": "[opt] your license"
+}
