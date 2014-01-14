@@ -1,7 +1,10 @@
 {
     "template_id": "reveal.js",
     "title": "reveal.js",
-    "screen_shot": "",
+    "screen_shot": ["res/reveal-1.jpg",
+                    "res/reveal-2.jpg",
+                    "res/reveal-3.jpg",
+                    "res/reveal-4.jpg"],
     "description": "description.html",
     "version": "0.1",
     "app_class": "html",

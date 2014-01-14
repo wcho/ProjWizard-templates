@@ -1,7 +1,8 @@
 {
     "template_id": "backbone-mvc",
     "title": "backbone",
-    "screen_shot": "",
+    "screen_shot": ["res/backbone-1.jpg",
+                    "res/backbone-2.jpg"],
     "description": "project/readme.md",
     "version": "0.1",
     "app_class": "html",

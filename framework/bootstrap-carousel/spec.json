@@ -1,7 +1,9 @@
 {
     "template_id": "bootstrap-carousel",
     "title": "bootstrap carousel",
-    "screen_shot": "",
+    "screen_shot": ["res/bootstrap-1.jpg",
+                    "res/bootstrap-2.jpg",
+                    "res/bootstrap-3.jpg"],
     "description": "project/README.md",
     "version": "0.1",
     "app_class": "html",

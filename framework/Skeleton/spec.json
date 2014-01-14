@@ -1,7 +1,7 @@
 {
     "template_id": "skeleton",
     "title": "skeleton",
-    "screen_shot": "",
+    "screen_shot": ["res/skeleton-1.jpg"],
     "description": "project/README.md",
     "version": "0.1",
     "app_class": "html",
