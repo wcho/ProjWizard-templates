@@ -1,7 +1,8 @@
 {
     "template_id": "angularjs-mvc",
     "title": "angularjs",
-    "screen_shot": "",
+    "screen_shot": ["res/angular-1.jpg",
+                    "res/angular-2.jpg"],
     "description": "project/readme.md",
     "version": "0.1",
     "app_class": "html",

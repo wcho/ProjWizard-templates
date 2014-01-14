@@ -1,7 +1,9 @@
 {
     "template_id": "jquery-sample",
     "title": "jquery sample",
-    "screen_shot": "",
+    "screen_shot": ["res/jquery-sample-1.jpg",
+                    "res/jquery-sample-2.jpg",
+                    "res/jquery-sample-3.jpg"],
     "description": "project/README.md",
     "version": "0.1",
     "app_class": "html",

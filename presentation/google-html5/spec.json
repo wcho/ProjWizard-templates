@@ -1,7 +1,10 @@
 {
     "template_id": "Google HTML5 Slide",
     "title": "Google HTML5 Slide",
-    "screen_shot": "",
+    "screen_shot": ["res/googlehtml5-1.jpg",
+                    "res/googlehtml5-2.jpg",
+                    "res/googlehtml5-3.jpg",
+                    "res/googlehtml5-4.jpg"],
     "description": "description.html",
     "version": "0.1",
     "app_class": "html",

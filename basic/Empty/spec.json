@@ -1,7 +1,7 @@
 {
     "template_id": "hello world",
     "title": "hello world",
-    "screen_shot": [],
+    "screen_shot": ["res/helloworld-1.jpg"],
     "description": "project/README.md",
     "version": "0.1",
     "app_class": "html",

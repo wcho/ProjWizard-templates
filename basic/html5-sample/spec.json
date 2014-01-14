@@ -1,7 +1,10 @@
 {
     "template_id": "html5-sample",
     "title": "html5 sample",
-    "screen_shot": "",
+    "screen_shot": ["res/html5-sample-1.jpg",
+                    "res/html5-sample-2.jpg",
+                    "res/html5-sample-3.jpg",
+                    "res/html5-sample-4.jpg"],
     "description": "project/README.md",
     "version": "0.1",
     "app_class": "html",

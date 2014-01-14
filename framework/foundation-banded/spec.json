@@ -1,7 +1,8 @@
 {
     "template_id": "foundation-banded",
     "title": "foundation banded",
-    "screen_shot": "",
+    "screen_shot": ["res/foundation-1.jpg",
+                    "res/foundation-2.jpg"],
     "description": "project/README.md",
     "version": "0.1",
     "app_class": "html",

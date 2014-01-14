@@ -1,7 +1,9 @@
 {
     "template_id": "deck.js",
     "title": "deck.js",
-    "screen_shot": "",
+    "screen_shot": ["res/deckjs-1.jpg",
+                    "res/deckjs-2.jpg",
+                    "res/deckjs-3.jpg"],
     "description": "description.html",
     "version": "0.1",
     "app_class": "html",
