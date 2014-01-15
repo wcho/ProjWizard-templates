@@ -4,7 +4,7 @@
     "screen_shot": ["res/deckjs-1.jpg",
                     "res/deckjs-2.jpg",
                     "res/deckjs-3.jpg"],
-    "description": "description.html",
+    "description": "project/README.md",
     "version": "0.1",
     "app_class": "html",
     "app_main": "introduction/index.html",

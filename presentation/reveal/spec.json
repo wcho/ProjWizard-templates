@@ -5,7 +5,7 @@
                     "res/reveal-2.jpg",
                     "res/reveal-3.jpg",
                     "res/reveal-4.jpg"],
-    "description": "description.html",
+    "description": "project/README.md",
     "version": "0.1",
     "app_class": "html",
     "app_main": "index.html",

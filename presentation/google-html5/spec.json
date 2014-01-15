@@ -5,7 +5,7 @@
                     "res/googlehtml5-2.jpg",
                     "res/googlehtml5-3.jpg",
                     "res/googlehtml5-4.jpg"],
-    "description": "description.html",
+    "description": "project/README.md",
     "version": "0.1",
     "app_class": "html",
     "app_main": "template.html",
