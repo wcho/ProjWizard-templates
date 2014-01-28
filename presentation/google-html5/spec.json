@@ -8,7 +8,7 @@
     "description": "project/README.md",
     "version": "0.1",
     "app_class": "html",
-    "app_main": "template.html",
+    "app_main": "index.html",
     "template model": [
         {
            "param": "project name (NOT USED YET)",
