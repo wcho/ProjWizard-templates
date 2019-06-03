@@ -5,3 +5,5 @@ function CWE_398() { // IDENTICAL_BRANCHES
         y = x;
     }
 }
+
+console.log(10);
